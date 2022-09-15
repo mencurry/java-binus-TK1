@@ -22,7 +22,9 @@ public class Main {
                 kwetiawSiram = 13579.13,
                 kambingGuling = 98765.43;
         Double hargaPembelianIndividual, totalPembelianDisc, totalDisc, totalPembelian;
-
+        
+        // check if status == true, then the program runs
+        // at the end of invoice output, it asks the user if they want to retry, then status can be changed to false
         while (status) {
             // program initialize and welcome its user
             System.out.println("Selamat siang...");
