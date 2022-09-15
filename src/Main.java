@@ -23,7 +23,7 @@ public class Main {
                 kambingGuling = 98765.43;
         Double hargaPembelianIndividual, totalPembelianDisc, totalDisc, totalPembelian;
 
-        while(status) {
+        while (status) {
             // program initialize and welcome its user
             System.out.println("Selamat siang...");
             System.out.print("Pesan untuk berapa orang : ");
